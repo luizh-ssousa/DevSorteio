@@ -18,3 +18,5 @@
         <li>CSS</li>
         <li>JavaScript</li>
     </ul>
+
+<img src="https://github.com/luizh-ssousa/DevSorteio/blob/main/assets/random.png?raw=true"/>
